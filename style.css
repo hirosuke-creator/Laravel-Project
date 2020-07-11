@@ -3,3 +3,16 @@ p{
     font-size: 14px;
     border: 1px solid #000000;
 }
+
+.tbl_title{
+    border: 2px solid green;
+}
+
+.tbl_title th{
+    color: green;
+    width: 60px;
+}
+
+tbody td{
+    text-align: center;
+}
